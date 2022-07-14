@@ -11,3 +11,10 @@ __pycache__/
 /*.json
 organoid_tracker.ini
 /out/
+<<<<<<< Updated upstream
+=======
+/output/
+/training_output/
+/image_data/
+/models/
+>>>>>>> Stashed changes
